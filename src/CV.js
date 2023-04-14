@@ -11,7 +11,8 @@ function CV() {
                 <h5>Address: Johannesburg, Gauteng, South Africa</h5>
                 <h5>Email: silvano.n92@gmail.com</h5>
                 <h5>Cell: 078-976-6337</h5>
-                <h5>LinkedIn: <a href='https://www.linkedin.com/in/ntsika-silvano-a66863106/'>https://www.linkedin.com/in/ntsika-silvano-a66863106/</a></h5>
+                <h5>LinkedIn: <a href='https://www.linkedin.com/in/ntsika-silvano-a66863106/' target='_blank'>https://www.linkedin.com/in/ntsika-silvano-a66863106/</a></h5>
+                <h5>Github Repos: <a href='https://github.com/Silva3012?tab=repositories' target='_blank'>https://github.com/Silva3012?tab=repositories</a></h5>
             </header>
             <hr className='end-section'></hr>
             <section>
